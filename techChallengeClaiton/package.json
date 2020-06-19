@@ -1,0 +1,15 @@
+{
+  "name": "techchallengeclaiton",
+  "version": "1.0.0",
+  "description": "App que exporta dados mysql de algumas colunas para o formato csv",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claiton Londero",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "^4.3.0",
+    "mysql": "^2.18.1"
+  }
+}
