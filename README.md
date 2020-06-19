@@ -1,8 +1,5 @@
 # Tech Challenge Delivery Much
 
-[![NPM Version][npm-image]][npm-url]
-
-
 ## Instalação
 
 Questão 2 foi utilizado o nodejs lendo os dados do MySQL usando o mysql module.
