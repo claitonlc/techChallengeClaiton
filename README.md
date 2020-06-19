@@ -9,7 +9,7 @@ Exportar dados do MySQL para um arquivo CSV usando o modulo fast-csv.
 para instalar usar o comando:
 npm install 
 ```
-Demais questões é necessário ter o anaconda navigator.
+Demais questões é necessário ter o anaconda navigator ou o Jupyter Notebook com o python3.
 
 
 
